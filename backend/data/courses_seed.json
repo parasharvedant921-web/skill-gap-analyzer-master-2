@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c1",
+    "name": "Full Stack Web Development",
+    "skills_taught": ["React", "Node.js", "MongoDB", "HTML", "CSS", "JavaScript"],
+    "district": "Pune"
+  },
+  {
+    "id": "c2",
+    "name": "Data Analytics with Python",
+    "skills_taught": ["Python", "Pandas", "NumPy", "Matplotlib", "SQL"],
+    "district": "Pune"
+  },
+  {
+    "id": "c3",
+    "name": "Cloud Computing Fundamentals",
+    "skills_taught": ["AWS", "Docker", "Kubernetes", "Linux"],
+    "district": "Mumbai"
+  },
+  {
+    "id": "c4",
+    "name": "Cybersecurity Essentials",
+    "skills_taught": ["Network Security", "Penetration Testing", "Wireshark", "Kali Linux"],
+    "district": "Mumbai"
+  },
+  {
+    "id": "c5",
+    "name": "Java Enterprise Edition",
+    "skills_taught": ["Java", "Spring Boot", "Hibernate", "SQL"],
+    "district": "Nagpur"
+  },
+  {
+    "id": "c6",
+    "name": "Digital Marketing Specialist",
+    "skills_taught": ["SEO", "SEM", "Google Analytics", "Content Marketing"],
+    "district": "Pune"
+  },
+  {
+    "id": "c7",
+    "name": "Embedded Systems Design",
+    "skills_taught": ["C", "C++", "RTOS", "Microcontrollers"],
+    "district": "Nagpur"
+  },
+  {
+    "id": "c8",
+    "name": "UI/UX Design Masterclass",
+    "skills_taught": ["Figma", "Adobe XD", "User Research", "Prototyping"],
+    "district": "Mumbai"
+  },
+  {
+    "id": "c9",
+    "name": "Android App Development",
+    "skills_taught": ["Kotlin", "Android Studio", "Firebase", "Jetpack Compose"],
+    "district": "Pune"
+  },
+  {
+    "id": "c10",
+    "name": "Machine Learning Practitioner",
+    "skills_taught": ["Python", "Scikit-learn", "TensorFlow", "Linear Algebra"],
+    "district": "Mumbai"
+  },
+  {
+    "id": "c11",
+    "name": "DevOps Engineer Path",
+    "skills_taught": ["Jenkins", "Terraform", "Ansible", "Git", "AWS"],
+    "district": "Pune"
+  },
+  {
+    "id": "c12",
+    "name": "Blockchain Development",
+    "skills_taught": ["Solidity", "Ethereum", "Web3.js", "Cryptography"],
+    "district": "Mumbai"
+  }
+]

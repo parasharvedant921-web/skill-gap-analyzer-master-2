@@ -1,0 +1,28 @@
+:root {
+  --primary-dark: #0f172a;
+  --primary-blue: #1d4ed8;
+  --success-green: #10b981;
+  --gap-red: #e11d48;
+  --bg-offwhite: #f8fafc;
+  --border-color: #e2e8f0;
+  --text-main: #1e293b;
+  --text-muted: #64748b;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--bg-offwhite);
+  color: var(--text-main);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

@@ -1,0 +1,19 @@
+# Backend
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv/
+
+# Frontend
+node_modules/
+dist/
+.DS_Store
+
+# Project Specs (Keep local, don't push to GitHub)
+PROJECT_SPEC.md
+PROJECT_SPEC2.md
+# IDEs
+.vscode/
+.idea/

@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pymongo
+sentence-transformers
+pydantic
+pydantic-settings
+python-multipart

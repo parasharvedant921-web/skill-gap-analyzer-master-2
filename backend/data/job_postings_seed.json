@@ -1,0 +1,86 @@
+[
+  {
+    "id": "j1",
+    "role": "Frontend Developer",
+    "required_skills": ["React", "TypeScript", "CSS", "Tailwind"],
+    "district": "Pune",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "j2",
+    "role": "Backend Engineer",
+    "required_skills": ["Node.js", "Express", "MongoDB", "Redis"],
+    "district": "Pune",
+    "source": "Indeed"
+  },
+  {
+    "id": "j3",
+    "role": "Cloud Architect",
+    "required_skills": ["AWS", "Terraform", "Kubernetes", "CloudFormation"],
+    "district": "Mumbai",
+    "source": "Company Portal"
+  },
+  {
+    "id": "j4",
+    "role": "Security Analyst",
+    "required_skills": ["SIEM", "Incident Response", "Network Security", "Python"],
+    "district": "Mumbai",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "j5",
+    "role": "Java Developer",
+    "required_skills": ["Java", "Spring Boot", "Microservices", "PostgreSQL"],
+    "district": "Nagpur",
+    "source": "Indeed"
+  },
+  {
+    "id": "j6",
+    "role": "Data Scientist",
+    "required_skills": ["Python", "PyTorch", "SQL", "Pandas"],
+    "district": "Mumbai",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "j7",
+    "role": "DevOps Engineer",
+    "required_skills": ["Docker", "Jenkins", "AWS", "Prometheus"],
+    "district": "Pune",
+    "source": "Company Portal"
+  },
+  {
+    "id": "j8",
+    "role": "Embedded Software Engineer",
+    "required_skills": ["C", "ARM", "RTOS", "I2C"],
+    "district": "Nagpur",
+    "source": "Indeed"
+  },
+  {
+    "id": "j9",
+    "role": "Product Designer",
+    "required_skills": ["Figma", "User Personas", "Wireframing", "Interaction Design"],
+    "district": "Mumbai",
+    "source": "Behance"
+  },
+  {
+    "id": "j10",
+    "role": "Android Developer",
+    "required_skills": ["Kotlin", "MVVM", "Retrofit", "Dagger"],
+    "district": "Pune",
+    "source": "LinkedIn"
+  },
+  {
+    "id": "j11",
+    "role": "AI Researcher",
+    "required_skills": ["PyTorch", "Transformers", "NLP", "Mathematics"],
+    "district": "Mumbai",
+    "source": "Company Portal"
+  },
+  {
+    "id": "j12",
+    "role": "Web Analyst",
+    "required_skills": ["Google Analytics", "SEO", "SQL", "Tableau"],
+    "district": "Pune",
+    "source": "Indeed"
+  }
+]
